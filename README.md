@@ -16,8 +16,7 @@ Welcome to my personal portfolio website! This is a simple and clean static webs
 
 ## 🌐 Live Demo
 
-[View Live](https://your-username.github.io/your-repo-name/)  
-*(Update this link after enabling GitHub Pages)*
+[View Live](https://ruthra2198.github.io/portfolio-simple-website/)  
 
 ## 📩 Contact
 
